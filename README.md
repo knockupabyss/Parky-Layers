@@ -10,6 +10,7 @@ Parky Layers is a Blender extension allowing you to create 2D keyframed animatio
 The main reasons that I've found you should use this are as follows:
 - You can't afford removing the watermark on Alight Motion
 - You want extensibility; Blender is highly customizable.
+<br>
 It's an experimental project at best, so I wouldn't recommend using it for production work.
 
 ## How does it work?
