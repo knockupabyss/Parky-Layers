@@ -1,4 +1,5 @@
 # Parky Layers
+![Example](https://raw.githubusercontent.com/knockupabyss/Parky-Layers/refs/heads/main/ezgif-8db0dbd2a67e5d2b.gif)
 
 ## What is it?
 Parky Layers is a Blender extension allowing you to create 2D keyframed animations. Think Alight Motion, but in Blender. This extension is heavily inspired by the workflow that the adult animated TV show South Park uses for animation (which is also where it's namesake comes from!).
